@@ -1,3 +1,5 @@
+# OPTIMAC a tool to reduce the pretty effects for performance. (Modified for University Lab Optimization)
+
 OptiMac will optimize device by doing the following:
 
   - Remove any trace of "Inventory_Update" scripts (Which I still don't know what it does.)
