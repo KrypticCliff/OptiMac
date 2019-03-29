@@ -15,7 +15,7 @@ Device will need to be rebooted after script has ran.
 
 
 
-HOW TO RUN SCRIPT!
+<b>HOW TO RUN SCRIPT!</b>
 
  1. Move OptiMac folder from USB to desktop.
  2. Navigate to script's location in Terminal.
@@ -26,6 +26,6 @@ HOW TO RUN SCRIPT!
  5. Reboot device for changes to apply.
 
 
-TO REANIMATE MAC
+<b>TO REANIMATE MAC</b>
 
 To bring all Mac animations back. Run the ReAnimate_Mac.sh script.
