@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## Created By: Clifton Rawlings ##
+## Updated: March 29, 2019 ##
+
 ###### Checks and deletes Inventory script  ######
 printf "Removing Inventory Script...\n"
 
